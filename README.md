@@ -1,2 +1,2 @@
-### Reasoning Machine
+### Coordinating Machine
 A Machine that reasons.

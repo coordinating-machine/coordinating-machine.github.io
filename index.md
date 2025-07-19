@@ -1,19 +1,17 @@
 ---
 layout: home
-title: Reasoning Machine
+title: Coordinating Machine
 ---
-# Reasoning Machine
+# Coordinating Machine
 
 <pre>
   'Machina Ratiocinatrix' is a term used by Norbert Wiener in the introduction to his 
   book "Cybernetics, or Control and Communication in the Animal and the Machine".
 </pre>
 
-[Reasoning-Machine (meta)](https://reasoning-machine.github.io/meta/)
+[Coordinating-Machine (oaio)](https://coordinating-machine.github.io/oaio/)
 
-[Reasoning-Machine (openai)](https://reasoning-machine.github.io/openai/)
+[Coordinating-Machine (fireworks)](https://coordinating-machine.github.io/fireworks/)
 
-[Reasoning-Machine (fireworks)](https://reasoning-machine.github.io/fireworks/)
-
-[Reasoning-Machine (depsek)](https://reasoning-machine.github.io/depsek/)
+[Coordinating-Machine (qrog)](https://coordinating-machine.github.io/qrog/)
 
